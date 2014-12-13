@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mehdi.masrour@gmail.com",
+    "longName": "Mehdi's Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/fcn_bw.png",
+                "name": "FCN_BW_50",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Mehdi",
+    "uuid": "34696065-9fee-42a3-98dc-be805f9cd31c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
